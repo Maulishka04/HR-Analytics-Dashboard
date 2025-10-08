@@ -42,16 +42,16 @@ The main page provides overall HR insights with the following metrics and visual
 ## Screenshots
 
 ### 1. Main Page
-![Main Page](Dashboard1.png)
+![Main Page](screenshots/Dashboard1.png)
 
 ### 2. Human Resources Slicer
-![HR Slicer](Dashboard2.png)
+![HR Slicer](screenshots/Dashboard2.png)
 
 ### 3. Research & Development
-![R&D Slicer](Dashboard3.png)
+![R&D Slicer](screenshots/Dashboard3.png)
 
 ### 4. Sales Slicer
-![Sales Slicer](Dashboard4.png)
+![Sales Slicer](screenshots/Dashboard4.png)
 
 > **Note:** All visuals and metrics update dynamically when a department is selected using the slicers.
 

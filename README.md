@@ -16,7 +16,8 @@ This is an **interactive HR Analytics Dashboard** built using **Power BI** to pr
 - Excel / CSV for sample dataset
 
 ## Screenshots
-![Dashboard Screenshot 1](C:\Users\PC\OneDrive\Pictures\Screenshots\Dashboard1.png)
+![Dashboard Screenshot 1](Dashboard1.png)
+
 ![Dashboard Screenshot 2](screenshots/dashboard2.png)
 
 ## Files
